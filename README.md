@@ -1,4 +1,4 @@
-<a href="#"><img align="center" src="https://linhvuenglish.edu.vn/wp-content/uploads/2020/12/welcome.jpg"/></a>
+<img align="left" width="300" src="https://linhvuenglish.edu.vn/wp-content/uploads/2020/12/welcome.jpg">
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Loan Anh</h1>
 
 ## 🌐Socials
