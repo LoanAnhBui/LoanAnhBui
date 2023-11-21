@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fnordicdairycongress.com%2Fnyheder%2Fwelcome-nordicdairycongresscom&psig=AOvVaw1Kbta8GuYjwdQw_dJnYMks&ust=1700624669824000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqGAoTCOjlrNyW1IIDFQAAAAAdAAAAABCZAQ" height="175px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://i.pinimg.com/736x/5b/ba/54/5bba543aef3d6044381fad33c8d9b87a.jpg" height="175px"/></a>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Loan Anh</h1>
 
 ## 🌐Socials
@@ -18,8 +18,3 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=LoanAnhBui&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=DevPhamPham">
-</a>
-<a href="https://github.com/DevPhamPham?tab=followers"><img src="https://img.shields.io/github/followers/DevPhamPham?label=Followers&style=social" alt="GitHub Badge"></a>
